@@ -22,7 +22,7 @@ sidebar:
   text_link_url: ""
   title: A Sidebar for My Projects
 thumbnail_left: false
-title: Data Science Projects
+title: Data Analytics Projects
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
