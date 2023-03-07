@@ -9,7 +9,7 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5
+paginate = 6
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -133,15 +133,20 @@ enableEmoji = true
     #url = "/blog/"
     #weight = 2
   [[menu.header]]
+    name = "CV"
+    title = "CV"
+    url = "/cv/"
+    weight = 2
+  [[menu.header]]
     name = "Ecology"
     title = "Ecology"
     url = "/ecology_projects/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Data Analytics"
     title = "Data Analytics"
     url = "/data_analytics/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Data Science"
     title = "Data Science"
@@ -156,7 +161,7 @@ enableEmoji = true
     name = "Contact"
     title = "Contact Me"
     url = "/contact/"
-    weight = 7
+    weight = 6
     
   # Configure footer  
   [[menu.footer]]
