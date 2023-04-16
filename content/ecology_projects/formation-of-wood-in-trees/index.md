@@ -7,13 +7,13 @@ categories:
 - R
 date: "2021-03-01"
 draft: false
-excerpt: This is my PhD project... More information to be added
+excerpt: This is part of my PhD research ... More information to be added
 layout: single
 links:
 subtitle: 
 tags:
 - wood
-title: How do trees make their wood?
+title: How do trees make wood?
 ---
 
 ### 

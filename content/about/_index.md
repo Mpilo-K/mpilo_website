@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  I am a PhD candidate at Stellenbosch University.
+  PhD candidate | Data Scientist
 show_header: false
 sidebar_left: true
 title: About Mpilo Khumalo

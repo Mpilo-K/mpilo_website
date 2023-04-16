@@ -10,7 +10,7 @@ intro: |
   
   I am also a **[Data Scientist](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)** at **[Bantubyte](https://bantubyte.com/)**. I get to work with skillful data scientists, data engineers, advanced analysts , machine learning engineers and software developers to provide custom tailored solutions to various organisations.
   
-  In my free time I enjoy cycling, climbing rocks and mountains, physical and mental exercises, and learning new languages (currently German and Afrikaans).
+  In my 'free time' I enjoy cycling, climbing rocks and mountains, physical and mental exercises, and learning new languages (currently German and Afrikaans).
   
   Feel free to **[contact me](https://mpilokhumalo.com/contact/)**.
   

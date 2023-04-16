@@ -1,5 +1,5 @@
 ---
-title: Data Science Projects
+title: Data Science and Statistics
 description: 
 author: ""
 show_post_thumbnail: true

@@ -8,7 +8,7 @@ images:
 - img/mpilo.jpg
 show_action_link: true
 show_social_links: true
-subtitle: PhD Candidate at Stellenbosch University
+subtitle: PhD Candidate | Data Scientist
 text_align_left: true
 title: Mpilo Khumalo
 type: home

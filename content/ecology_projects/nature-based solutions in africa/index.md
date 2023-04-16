@@ -12,7 +12,7 @@ layout: single
 subtitle: 
 tags:
 - 
-title: Towards Equitable and Sustainable Nature-Based Solutions (NbS) in Southern Africa’s Water Towers
+title: Sustainable Nature-based Solutions (NbS) in Southern Africa
 ---
 
 ### Water towers

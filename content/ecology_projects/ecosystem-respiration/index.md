@@ -6,12 +6,12 @@ categories:
 - Carbon_cycle
 date: "2020-12-15"
 draft: false
-excerpt: About half of the carbon taken in by savanna ecosystems is released back to the atmosphere throught respiration.
+excerpt: About half of the carbon taken in by savanna ecosystems is released back to the atmosphere through respiration.
 layout: single
 subtitle: 
 tags:
 - 
-title: Total Ecosystem Respiration in Savanna Ecosystems
+title: Total ecosystem respiration in savanna ecosystems
 ---
 
 ### GPP VS NEE
