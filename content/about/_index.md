@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  I am a Forest Science PhD candidate at Stellenbosch University.
+  I am a PhD candidate at Stellenbosch University.
 show_header: false
 sidebar_left: true
 title: About Mpilo Khumalo

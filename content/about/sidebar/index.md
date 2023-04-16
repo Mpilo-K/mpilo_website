@@ -1,24 +1,25 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Mpilo Khumalo"
-role: "Ecologist | Data Analyst"
+role: "Ecophysiologist | Data Scientist"
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: "" #How to say my name" # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: "Affiliations" # bookmarks, elsewhere, etc.
 link_list:
-- name: EucXylo (Stellenbosch)
+- name: EucXylo
   url: https://blogs.sun.ac.za/eucxylo/
+- name: BantuByte
+  url: https://bantubyte.com/
+- name: Wits University
+  url: https://www.wits.ac.za/apes/
+- name: The Carpentries
+  url: https://carpentries.org/
 - name: GAUC 
   url: https://gauc.net/
-- name: Archibald Lab (Wits)
-  url: http://archibaldlab.weebly.com/
-- name: Carpentries
-  url: https://carpentries.org/
-- name: GCBG (Stellenbosch)
-  url: https://globalchangebiologygroup.weebly.com/the-team.html
 - name: Q-NET 
   url: https://qwa-net.com/
+
 
 ---
 
