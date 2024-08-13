@@ -6,11 +6,12 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  I am currently a PhD candidate at __[Stellenbosch University](https://www.sun.ac.za/english)__. My research project is broadly called __[The EucXylo Phenomenological Trial](https://blogs.sun.ac.za/eucxylo/2020/10/12/the-beginning-of-our-phenomenological-trial/)__, where I am studying all the ecophysiological processes and environmental conditions that influence the formation of wood in forest trees.
+ 
+ I am a Data Scientist with a strong background in Python, R, and SQL, specializing in location intelligence and GIS. I have extensive experience applying machine learning, generative AI, and advanced statistics to deliver actionable insights across diverse industries. My expertise includes collaborating with cross-functional teams and effectively communicating complex data findings to varied audiences.
   
-  I am also a **[Data Scientist](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)** at **[Bantubyte](https://bantubyte.com/)**. I get to work with skillful data scientists, data engineers, advanced analysts , machine learning engineers and software developers to provide custom tailored solutions to various organisations.
+  As a versatile data scientist, data engineer, and advanced analyst, I provide bespoke, custom-tailored solutions to meet the unique needs of various sectors. Currently, I am nearing the completion of my PhD at Stellenbosch University, where my research focuses on The EucXylo Phenomenological Trial. This project explores the ecophysiological processes and environmental conditions that influence wood formation in forest trees.
   
-  In my 'free time' I enjoy cycling, climbing rocks and mountains, physical and mental exercises, and learning new languages (currently German and Afrikaans).
+  In my free time, I enjoy cycling, rock and mountain climbing, engaging in physical and mental exercises, and learning new languages, with a current focus on German and Afrikaans.
   
   Feel free to **[contact me](https://mpilokhumalo.com/contact/)**.
   

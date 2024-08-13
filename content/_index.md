@@ -8,7 +8,7 @@ images:
 - img/mpilo.jpg
 show_action_link: true
 show_social_links: true
-subtitle: PhD Candidate | Data Scientist
+subtitle: Data Scientist / Engineer/ Analyst
 text_align_left: true
 title: Mpilo Khumalo
 type: home

@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  PhD candidate | Data Scientist
+  Data Scientist / Engineer/ Analyst
 show_header: false
 sidebar_left: true
 title: About Mpilo Khumalo
