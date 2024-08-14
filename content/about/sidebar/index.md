@@ -19,8 +19,7 @@ link_list:
   url: https://carpentries.org/
 - name: GAUC 
   url: https://gauc.net/
-- name: Q-NET 
-  url: https://qwa-net.com/
+
 
 
 ---
