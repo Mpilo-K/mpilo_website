@@ -13,7 +13,7 @@ subtitle:
 tags:
 - 
 
-title: Logistic Regression
+title: Where to establish a lifestyle center?
 ---
 
 ### To be added
