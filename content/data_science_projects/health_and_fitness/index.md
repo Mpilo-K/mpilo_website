@@ -12,7 +12,7 @@ layout: single
 subtitle: 
 tags:
 - 
-title: DBSCAN
+title: Where to establish new gyms in South Africa, post COVID-19.
 ---
 
 ### To be added

@@ -5,7 +5,7 @@ categories:
 - R
 - Python
 - Statistics
-date: "2021-12-10"
+date: "2022-06-01"
 draft: false
 excerpt: To be added soon.
 layout: single
@@ -14,8 +14,7 @@ tags:
 - 
 
 
-title: Decision Trees
-
+title: What types of gyms to establish in South Africa?
 ---
 
 ### To be added

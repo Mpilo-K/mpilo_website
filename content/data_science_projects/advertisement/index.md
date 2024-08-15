@@ -5,7 +5,7 @@ categories:
 - R
 - Python
 - Statistics
-date: "2022-06-01"
+date: "2021-12-10"
 draft: false
 excerpt: To be added soon.
 layout: single
@@ -14,7 +14,8 @@ tags:
 - 
 
 
-title: K-Means Clustering
+title: Where to place advertisements in South Africa for maximum impact?
+
 ---
 
 ### To be added
