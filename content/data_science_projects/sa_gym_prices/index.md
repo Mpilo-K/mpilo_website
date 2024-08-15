@@ -12,7 +12,7 @@ subtitle:
 tags:
 - 
 
-title: Simple Linear Regressions
+title: The best way to set membership prices for gyms in South Africa, post COVID-19.
 ---
 
 ### To be added
