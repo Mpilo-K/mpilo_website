@@ -142,7 +142,7 @@ enableEmoji = true
     name = "Ecology"
     title = "Ecology"
     url = "/ecology_projects/"
-    weight = 3
+    weight = 5
   [[menu.header]]
     name = "Data Analytics"
     title = "Data Analytics"
@@ -152,7 +152,7 @@ enableEmoji = true
     name = "Data Science"
     title = "Data Science"
     url = "/data_science_projects/"
-    weight = 5
+    weight = 3
   #[[menu.header]]
     #name = "Talks"
     #title = "Talks"
