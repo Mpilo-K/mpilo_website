@@ -14,7 +14,7 @@ tags:
 - 
 
 
-title: Environmental Impact Analysis and Prediction for Gold Mining Activities
+title: Environmental Impact Analysis And Prediction For Gold Mining Activities
 ---
 
 ### To be added

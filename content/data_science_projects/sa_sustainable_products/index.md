@@ -14,7 +14,7 @@ tags:
 - 
 
 
-title: Are South Africans interested in sustainable eco-friendly products?
+title: Are South Africans Interested In sustainable & Ico-friendly Products?
 ---
 
 ### To be added

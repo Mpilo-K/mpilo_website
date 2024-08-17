@@ -14,7 +14,7 @@ tags:
 - 
 
 
-title: Price Forecasting for South African Mined Commodities.
+title: Price Forecasting For South African Mined Commodities.
 ---
 
 ### To be added

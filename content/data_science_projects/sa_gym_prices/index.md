@@ -12,7 +12,7 @@ subtitle:
 tags:
 - 
 
-title: The best way to set membership prices for gyms in South Africa, post COVID-19.
+title: What Is Best Way To Set Membership Prices For Gyms In South Africa, Post COVID-19?
 ---
 
 ### To be added

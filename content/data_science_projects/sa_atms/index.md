@@ -14,7 +14,7 @@ tags:
 - 
 
 
-title: Where to establish new ATMs in South Africa?
+title: Where To Establish New ATMs In South Africa?
 ---
 
 ### To be added

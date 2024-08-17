@@ -14,7 +14,7 @@ tags:
 - 
 
 
-title: What types of gyms to establish in South Africa?
+title: What Types Of Gyms To Establish In South Africa?
 ---
 
 ### To be added

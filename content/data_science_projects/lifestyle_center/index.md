@@ -13,7 +13,7 @@ subtitle:
 tags:
 - 
 
-title: Where to establish a lifestyle center?
+title: Where To Establish A Lifestyle Center?
 ---
 
 ### To be added
