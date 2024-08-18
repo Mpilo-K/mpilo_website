@@ -11,7 +11,7 @@ intro: |
   
   As a versatile data scientist, data engineer, and advanced analyst, I provide bespoke, custom-tailored solutions to meet the unique needs of various sectors. Currently, I am nearing the completion of my PhD at Stellenbosch University, where my research focuses on The EucXylo Phenomenological Trial. This project explores the ecophysiological processes and environmental conditions that influence wood formation in forest trees.
   
-  In my free time, I enjoy cycling, rock and mountain climbing, engaging in physical and mental exercises, and learning new languages, with a current focus on German and Afrikaans.
+  In my free time, I prioritise staying physically and mentally active. Whether it's through fitness activities, engaging in challenging mental exercises, or enjoying outdoor adventures, I strive to keep both my body and mind sharp. I also value quality time with my loved ones and am always immersed in a good book on a wide range of topics. Additionally, I have a passion for hackathons and competitive coding, which allows me to continuously push my skills and creativity.
   
   Feel free to **[contact me](https://mpilokhumalo.com/contact/)**.
   
