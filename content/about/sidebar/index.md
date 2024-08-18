@@ -7,8 +7,6 @@ show_social_links: true # specify social accounts in site config
 audio_link_label: "" #How to say my name" # leave blank to exclude
 link_list_label: "Affiliations" # bookmarks, elsewhere, etc.
 link_list:
-- name: Timbuk2
-  url: https://timbuk2.ai/
 - name: Bantubyte
   url: https://bantubyte.com/
 - name: Stellenbosch University
@@ -17,6 +15,10 @@ link_list:
   url: https://www.wits.ac.za/apes/
 - name: The Carpentries
   url: https://carpentries.org/
+- name: Golden Key
+  url: https://www.goldenkey.org/
+- name: SACNASP
+  url: https://www.sacnasp.org.za/
 - name: GAUC 
   url: https://gauc.net/
 
