@@ -124,8 +124,8 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About"
+    name = "About Me"
+    title = "About Me"
     url = "/about/"
     weight = 1
   #[[menu.header]]
@@ -134,20 +134,20 @@ enableEmoji = true
     #url = "/blog/"
     #weight = 2
   [[menu.header]]
-    name = "CV"
-    title = "CV"
+    name = "My CV"
+    title = "My CV"
     url = "/cv/"
     weight = 2
   [[menu.header]]
-    name = "Ecology"
-    title = "Ecology"
+    name = "Systems Ecology"
+    title = "Systems Ecology"
     url = "/ecology_projects/"
     weight = 5
-  [[menu.header]]
-    name = "Data Analytics"
-    title = "Data Analytics"
-    url = "/data_analytics/"
-    weight = 4
+  #[[menu.header]]
+  #  name = "Data Analytics"
+  #  title = "Data Analytics"
+  #  url = "/data_analytics/"
+  #  weight = 4
   [[menu.header]]
     name = "Data Science"
     title = "Data Science"
@@ -159,7 +159,7 @@ enableEmoji = true
     #url = "/talk/"
     #weight = 6
   [[menu.header]]
-    name = "Contact"
+    name = "Contact Me"
     title = "Contact Me"
     url = "/contact/"
     weight = 6

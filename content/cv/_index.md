@@ -34,23 +34,26 @@ description: Kindly request a copy of my cv **[here](https://mpilokhumalo.com/co
   <br>
   **SKILLS**
   <br>
-  **Programming languages**
+  **RESEARCH;**
+  Project Management, Effective Communication, Critical Thinking.
+  <br>
+  **Programming languages;**
   Python, R, SQL, HTML & CSS.
   <br>
-  **Database Management**
+  **Database Management;**
   MySQL, PostgreSQL, Big Query, Amazon Athena, Amazon Redshift.
   <br>
-  **Cloud Platforms**
+  **Cloud Platforms;**
   Amazon Web Services, Google Cloud platform.
   <br>
-  **Data Visualisation**
+  **Data Visualisation;**
   Power BI, Tableau, QGIS, CARTO, ESRI/ArcGIS.
   <br>
-  **Tools**
+  **Tools;**
   Jupyter, RStudio, VS Code, Git & GitHub, Microsoft Office, 
   Google Sheets, Atlasian Jira,     Slack, Zapier, Swagger.
   <br>
-  **Strengths**
+  **Strengths;**
   Problem Solving, Curiosity & continuous learning, Collaboration & teamwork, Strong analytical   skills, Web Scraping, API integration, Prompt Engineering, 
   Project management &   organisational skills, Agile, Resilient in a fast-paced environment.
 
