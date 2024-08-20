@@ -51,7 +51,7 @@ description: Kindly request a copy of my cv **[here](https://mpilokhumalo.com/co
   <br>
   **Tools;**
   Jupyter, RStudio, VS Code, Git & GitHub, Microsoft Office, 
-  Google Sheets, Atlasian Jira,     Slack, Zapier, Swagger.
+  Google Sheets, Atlasian Jira/Confluence, Slack, Zapier, Swagger API Management.
   <br>
   **Strengths;**
   Problem Solving, Curiosity & continuous learning, Collaboration & teamwork, Strong analytical   skills, Web Scraping, API integration, Prompt Engineering, 
