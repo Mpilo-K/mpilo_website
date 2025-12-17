@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Data Scientist | Systems Ecologist
+  Data Scientist 
 show_header: false
 sidebar_left: true
 title: About Mpilo Khumalo
