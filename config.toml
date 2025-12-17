@@ -149,10 +149,15 @@ enableEmoji = true
   #  url = "/data_analytics/"
   #  weight = 4
   [[menu.header]]
-    name = "Data Science"
-    title = "Data Science"
+    name = "Location Intelligence"
+    title = "Location Intelligence"
     url = "/data_science_projects/"
     weight = 3
+  [[menu.header]]
+    name = "Supply Chain Optimisation"
+    title = "Supply Chain Optimisation"
+    url = "/data_science_projects/"
+    weight = 4
   #[[menu.header]]
     #name = "Talks"
     #title = "Talks"
