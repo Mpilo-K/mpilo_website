@@ -9,9 +9,9 @@ intro: |
  
  I am a data scientist with a decade of experience applying advanced analytics, machine learning, and geospatial methods to solve real-world problems. I specialise in Python, R, and SQL, with a strong focus on location intelligence, predictive modelling, and AI-driven insight generation across sectors including environmental sciences, finance, telecommunications, retail, and infrastructure.
 
- My work spans the full data lifecycle—from data engineering and exploratory analysis to statistical modelling, generative AI applications, and decision-ready visualisation. I am particularly skilled at translating complex, technical results into clear, actionable insights for both technical and non-technical stakeholders.
+ My work spans the full data lifecycle; from data engineering and exploratory analysis to statistical modelling, generative AI applications, and decision-ready visualisation. I am particularly skilled at translating complex, technical results into clear, actionable insights for both technical and non-technical stakeholders.
 
- Outside of work, I value continuous growth—physically, mentally, and intellectually. I enjoy endurance sports and outdoor activities, competitive coding and hackathons, and reading widely across science, technology, spirituality, and philosophy. These pursuits keep me curious, disciplined, and consistently driven to build impactful, high-quality solutions.
+ Outside of work, I value continuous growth; physically, mentally, and intellectually. I enjoy endurance sports and outdoor activities, competitive coding and hackathons, and reading widely across science, technology, spirituality, and philosophy. These pursuits keep me curious, disciplined, and consistently driven to build impactful, high-quality solutions.
   
   Feel free to **[contact me](https://mpilokhumalo.com/contact/)**.
   
