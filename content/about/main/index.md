@@ -7,11 +7,11 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
  
- I am a Data Scientist with a strong background in Python, R, and SQL, specializing in location intelligence and GIS. I have extensive experience applying machine learning, generative AI, and advanced statistics to deliver actionable insights across diverse industries. My expertise includes collaborating with cross-functional teams and effectively communicating complex data findings to varied audiences.
-  
-  As a versatile data scientist, data engineer, and advanced analyst, I provide bespoke, custom-tailored solutions to meet the unique needs of various sectors. Currently, I am nearing the completion of my PhD at Stellenbosch University, where my research focuses on The EucXylo Phenomenological Trial. This project explores the ecophysiological processes and environmental conditions that influence wood formation in forest trees.
-  
-  In my free time, I prioritise staying physically and mentally active. Whether it's through fitness activities, engaging in challenging mental exercises, or enjoying outdoor adventures, I strive to keep both my body and mind sharp. I also value quality time with my loved ones and am always immersed in a good book on a wide range of topics. Additionally, I have a passion for hackathons and competitive coding, which allows me to continuously push my skills and creativity.
+ I am a data scientist with a decade of experience applying advanced analytics, machine learning, and geospatial methods to solve real-world problems. I specialise in Python, R, and SQL, with a strong focus on location intelligence, predictive modelling, and AI-driven insight generation across sectors including environmental sciences, finance, telecommunications, retail, and infrastructure.
+
+ My work spans the full data lifecycle—from data engineering and exploratory analysis to statistical modelling, generative AI applications, and decision-ready visualisation. I am particularly skilled at translating complex, technical results into clear, actionable insights for both technical and non-technical stakeholders.
+
+ Outside of work, I value continuous growth—physically, mentally, and intellectually. I enjoy endurance sports and outdoor activities, competitive coding and hackathons, and reading widely across science, technology, spirituality, and philosophy. These pursuits keep me curious, disciplined, and consistently driven to build impactful, high-quality solutions.
   
   Feel free to **[contact me](https://mpilokhumalo.com/contact/)**.
   
