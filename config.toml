@@ -138,11 +138,11 @@ enableEmoji = true
   #  title = "My CV"
   #  url = "/cv/"
   #  weight = 2
-  [[menu.header]]
-    name = "Systems Ecology"
-    title = "Systems Ecology"
-    url = "/ecology_projects/"
-    weight = 5
+  #[[menu.header]]
+  #  name = "Systems Ecology"
+  #  title = "Systems Ecology"
+  #  url = "/ecology_projects/"
+  #  weight = 5
   #[[menu.header]]
   #  name = "Data Analytics"
   #  title = "Data Analytics"
