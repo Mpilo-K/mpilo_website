@@ -151,7 +151,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Location Intelligence"
     title = "Location Intelligence"
-    url = "/data_science_projects/"
+    url = "/data_analytics/"
     weight = 3
   [[menu.header]]
     name = "Supply Chain Optimisation"
